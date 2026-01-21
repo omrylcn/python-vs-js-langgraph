@@ -1,6 +1,6 @@
 # LangGraph + LLM Benchmark: Python vs JavaScript
 
-A benchmark comparing **Python (FastAPI)** and **JavaScript (Bun/Elysia)** web frameworks with **LangGraph** and a local **llama.cpp** server.
+A Simple benchmark comparing **Python (FastAPI)** and **JavaScript (Bun/Elysia)** web frameworks with **LangGraph** and a local **llama.cpp** server.
 
 ## Overview
 
