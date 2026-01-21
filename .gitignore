@@ -21,8 +21,4 @@ bun.lockb
 # OS
 .DS_Store
 Thumbs.db
-python-project/.python-version
-python-project/main.py
-python-project/pyproject.toml
-python-project/README.md
-python-project/uv.lock
+s
