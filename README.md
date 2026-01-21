@@ -138,6 +138,4 @@ LLM_BASE_URL=http://localhost:8080/v1 PORT=4000 bun run index.ts
 - **@langchain/langgraph** - LLM orchestration
 - **@langchain/openai** - OpenAI-compatible client
 
-## License
 
-MIT
