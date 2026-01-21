@@ -94,7 +94,7 @@ LLM_BASE_URL=http://localhost:8080/v1 PORT=4000 bun run index.ts
 
 ## Benchmark Results
 
-> Tested with llama.cpp + Qwen 9B Q5_K_M model
+> Tested with llama.cpp + 8B Q4_K_M model
 
 ### HTTP Performance (no LLM)
 
