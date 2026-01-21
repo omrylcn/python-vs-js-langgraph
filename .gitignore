@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv
+python-project/.venv
+
+# JavaScript
+node_modules/
+bun.lockb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+python-project/.python-version
+python-project/main.py
+python-project/pyproject.toml
+python-project/README.md
+python-project/uv.lock
